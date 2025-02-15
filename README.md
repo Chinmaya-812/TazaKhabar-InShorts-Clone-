@@ -2,7 +2,7 @@
 
 TazaKhabar is a React based news application that is a clone of the popular InShorts app. It provides news updates in short and crisp formats, with the ability to view the latest news from various sources. The app is mobile-responsive and provides a user-friendly experience across devices.
 
----
+
 
 # Key feauters
 
@@ -11,6 +11,13 @@ TazaKhabar is a React based news application that is a clone of the popular InSh
 - Location Display: Shows the user's current location in the header of the app once permission is granted.
 - Categories: Display news in various categories such as World, Politics, Technology, Sports, etc.
 - Easy Navigation: Users can easily navigate between different sections using a responsive Sidebar.
+
+
+
+# Access the Application
+
+If you want to visit the application, click this link to view or open it in your browser:
+[TazaKhabar Live Application](https://taza-khabar-in.netlify.app)
 
 ---
 
